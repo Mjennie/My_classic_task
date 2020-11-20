@@ -11,7 +11,6 @@ public class SomeClass {
     public AnalysisScope loadClass(String targetPath) throws IOException, InvalidClassFileException {
         File exclusionFile=new File("src/main/resources/exclusion.txt");
 
-        //File file=new File("D:\\大三上自己\\自动化测试\\实验作业\\Data\\0-CMD\\target\\classes\\net\\mooctest\\CMD.class");
         ClassLoader classLoader=SomeClass.class.getClassLoader();
 
         AnalysisScope scope= AnalysisScopeReader.readJavaScope(

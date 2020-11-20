@@ -41,6 +41,7 @@ public class startClass {
         CHACallGraph cg = new CHACallGraph(cha);
         cg.init(eps);
 
+        //找到用例名称
         String[] part=targetPath.split("\\\\");
         String dirName="";
         for(int i=0;i<part.length;i++){
