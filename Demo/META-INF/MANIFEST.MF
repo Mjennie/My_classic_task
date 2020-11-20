@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: startClass
-Class-Path: com.ibm.wala.shrike-1.5.5.jar commons-io-2.6.jar com.ibm.wal
- a.core-1.5.5.jar com.ibm.wala.cast.java-1.5.5.jar com.ibm.wala.util-1.5
- .5.jar com.ibm.wala.cast-1.5.5.jar
-

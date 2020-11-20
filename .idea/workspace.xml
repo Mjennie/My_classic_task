@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="testSelection:jar" />
+      <artifact name="testSelecton:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d71c7958-2251-4bb9-b2b2-ac22e5f02e25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/testSelection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/testSelection_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/testSelecton_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SomeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graphSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graphSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/startClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/startClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SomeClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graphSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/testSelection.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/testSelection.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SomeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/startClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/exclusion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scope.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/wala.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/startClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/startClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,14 +112,14 @@
       <screen x="0" y="0" width="1333" height="849" />
     </state>
     <state x="565" y="495" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1333.849@0.0.1333.849" timestamp="1605802470576" />
-    <state x="515" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605851824455">
+    <state x="515" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605872199679">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
-    <state x="515" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1333.849@0.0.1333.849" timestamp="1605851824455" />
-    <state x="592" y="183" key="FileChooserDialogImpl" timestamp="1605851578610">
+    <state x="515" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1333.849@0.0.1333.849" timestamp="1605872199679" />
+    <state x="592" y="183" key="FileChooserDialogImpl" timestamp="1605872229844">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
-    <state x="592" y="183" key="FileChooserDialogImpl/0.0.1333.849@0.0.1333.849" timestamp="1605851578610" />
+    <state x="592" y="183" key="FileChooserDialogImpl/0.0.1333.849@0.0.1333.849" timestamp="1605872229844" />
     <state width="1291" height="262" key="GridCell.Tab.0.bottom" timestamp="1605869756587">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
@@ -148,10 +152,10 @@
       <screen x="0" y="0" width="1333" height="849" />
     </state>
     <state width="1291" height="271" key="GridCell.Tab.1.right/0.0.1333.849@0.0.1333.849" timestamp="1605779255190" />
-    <state x="233" y="0" key="SettingsEditor" timestamp="1605851850498">
+    <state x="233" y="0" key="SettingsEditor" timestamp="1605872234635">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
-    <state x="233" y="0" key="SettingsEditor/0.0.1333.849@0.0.1333.849" timestamp="1605851850498" />
+    <state x="233" y="0" key="SettingsEditor/0.0.1333.849@0.0.1333.849" timestamp="1605872234635" />
     <state width="673" height="430" key="XDebugger.FullValuePopup" timestamp="1605694522418">
       <screen x="0" y="0" width="1333" height="849" />
     </state>

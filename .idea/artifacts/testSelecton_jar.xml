@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="testSelecton:jar">
+    <output-path>$PROJECT_DIR$/Demo</output-path>
+    <root id="root">
+      <element id="archive" name="my_task.jar">
+        <element id="module-output" name="my_task" />
+      </element>
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.shrike:1.5.5" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.core:1.5.5" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.cast.java:1.5.5" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.util:1.5.5" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.cast:1.5.5" />
+    </root>
+  </artifact>
+</component>
