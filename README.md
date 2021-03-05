@@ -1,5 +1,5 @@
 # My_classic_task
-自动化测试经典测试大作业
+自动化测试经典测试
 
 开始类 位于 /project/src/main/java/startClass
 由startClass去调用其他类
